@@ -1,0 +1,141 @@
+
+.background{
+  float: right;
+}
+.background img{
+  height: 600px;
+  width: 690px;
+}
+
+.navbar-nav > li{
+    padding-left:80px;
+  }
+  .navbar-nav > li a{
+    color: black !important;
+  }
+  .margine{
+    margin-top: 100px;
+  }
+.container{
+  padding-top: 20px;
+}
+  .travelar{
+    padding-left: 75px;
+   
+  }
+.travelar img{
+  height: 600px;
+}
+  .top-text{
+      margin-top: 80px;
+     
+  }
+  .text1{
+      font-size: 10px;
+      font-weight: 800;
+      color: #DF6951;
+  }
+  .text2{
+    font-size: 46px;
+    font-weight: 900;
+    font-family: 'Volkhov', serif;
+    color: #181E4B;
+    font-weight: 900;
+  }
+  .under-line{
+
+    background: url("image/Decore2.png") bottom repeat-x;
+      
+  }
+  .text3{
+    font-family: 'Poppins', sans-serif;
+      text-align: justify;
+    color: #5E6282;
+  }
+  .btn-findmore{
+      color: white;
+      background-color: #F1A501;
+      border-radius: 10px;
+  }
+  .btn-playDemo{
+      text-decoration: none;
+      color: black;
+  }
+  .background-second{
+    margin-top: 100px;
+    float: right;
+  }
+  .mid img{
+  padding-left: 90px;
+  }
+  .plane{
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+  }
+.text4{
+  font-size: 15px;
+  color: #5E6282;
+  font-weight: 600;
+}
+.card{
+  border-radius: 30px;
+}
+.card img{
+  border-radius: 30px 30px 0px 0px;
+}
+.card-title{
+  font-family: 'Poppins', sans-serif;
+  color: #5E6282;
+  font-size: 18px;
+  font-weight: 500;
+}
+.four-pic{
+padding-top: 8px;
+}
+.foth-text{
+  
+  padding-left: 10px;
+}
+.text5{
+  font-family: 'Poppins', sans-serif;
+  color: #5E6282;
+font-weight: bold;
+}.round-face{
+  border-radius: 50%;
+}
+.review{
+  box-shadow: 5px 5px 10px lightgray;
+  padding-left: 70px;
+}
+.review2{
+  box-shadow: 5px 5px 10px lightgray;
+  padding-left: 150px;
+}
+.alitalia{
+  width:  50px;
+  height: 20px;
+ padding-top: 20px;
+}
+.airline img{
+  width:  100px;
+  height: 100px;
+  object-fit: cover;
+}
+.suscribe{
+  height: 500px;
+  background-color: #DFD7F9;
+border-radius: 200px 20px 20px 20px;
+font-size: 30px;
+}
+.btn-subscribe{
+  color: white;
+  background-color: #FF946D;
+  border-radius: 10px;
+}
+.mail{
+  padding-left: 260px;
+}
+.design2{
+  float: right;
+  margin-top: 500px;
+}
