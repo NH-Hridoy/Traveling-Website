@@ -139,3 +139,14 @@ font-size: 30px;
   float: right;
   margin-top: 500px;
 }
+.bottom-text{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 21px;
+}
+.bottom-text2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  
+}
